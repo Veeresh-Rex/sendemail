@@ -7,5 +7,3 @@ To run the script
 ```bash
 node index.js
 ```
-
-# sendemail
